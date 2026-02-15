@@ -5,6 +5,11 @@ Leon is a clean, responsive, and minimal HTML/CSS agency template for showcasing
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+## 📸 Project Preview
+
+![Leon](FinalUI1.PNG)
+![Leon](FinalUI3.PNG)
+
 ## Features
 
 - ✨ **Modern & Minimal Design** - Clean and professional layout
